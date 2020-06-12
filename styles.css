@@ -122,11 +122,14 @@ span{
 }
 .pub{
 
-  padding: 10% 5% ;
+  padding: 10% 5% 15% ;
 }
 .carousel-item{
   padding: 0 15%;
   color: #35d0ba;
+}
+.carousel-inner{
+  position: absolute;
 }
 
 /* logo */
@@ -149,9 +152,11 @@ span{
 #Hobbies{
   background-color: #abf0e9;
   text-align: center;
+
 }#Hobbies h1{
   font-family: Montserrat;
   padding: 3% 0;
+
 }
 #Hobbies:hover{
   background-color: #f9c49a;
@@ -161,6 +166,7 @@ span{
   padding-bottom: 20px;
   font-size: 1.2rem;
 }
+
 
 /* footer */
 footer{
