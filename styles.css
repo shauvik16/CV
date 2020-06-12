@@ -175,6 +175,13 @@ footer{
   margin-left: 20px;
 }
 .foot-div{
-  margin-left: 40%;
+
+  padding-left: 40%;
+  padding-right: 40%;
   margin-bottom: 20px;
+}
+
+#contact p{
+  padding-left: 20%;
+  padding-right: 20%;
 }
