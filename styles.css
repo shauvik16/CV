@@ -1,0 +1,180 @@
+body{
+  font-family: Bentham ;
+}
+html {
+    scroll-behavior: smooth;
+}
+
+.about{
+    font-family: Montserrat;
+}
+
+.container-fluid{
+  padding: 7% 15% ;
+
+
+}
+#curve{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+
+}
+.navbar{
+  padding: 0 0 4rem;
+}
+.nav-item{
+  padding: 0 5px;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+.navbar-toggler{
+  margin-left: 45%;
+
+}
+.navbar-nav{
+  text-align: center;
+}
+.image-disp{
+  width: 40%;
+  margin: 5% 10% 5% 20% ;
+ border-left-width: 20px;
+ text-align: center;
+}
+.image-DP{
+  text-align: center;
+  padding: 20px 0 ;
+}
+span{
+  color: #def4f0;
+}
+
+
+
+#title{
+
+  background-image:linear-gradient(to bottom right,#10375c,#35d0ba) ;
+
+  position: relative;
+}
+
+.write_up{
+  font-family: Montserrat;
+  color: #35d0ba;
+  text-align: right;
+  padding: 100px 20px 0 0 ;
+  border-right-width: 100px;
+
+}
+
+/* Experiences */
+#experiences{
+  background-color: #def4f0;
+
+  text-align: center;
+}
+.exp{
+  padding: 5% 5%;
+
+}
+.exp h1{
+  padding-bottom: 10px;
+}
+.exp h3{
+  font-family: Montserrat;
+}
+.exp p{
+  font-size: 1.5rem;
+}
+
+/* internships */
+#internships{
+  background-color: #abf0e9;
+  text-align: center;
+
+}
+.intern{
+  padding: 5% 5%;
+}
+.intern h1{
+  padding-bottom: 10px;
+}
+.intern h2{
+  padding-top: 40px;
+}
+.intern h3{
+  font-family: Montserrat;
+  padding: 10px 0;
+}
+.intern li{
+  font-size: 1rem;
+}
+
+/* publications */
+
+#publications{
+  background-color: #def4f0;
+  text-align: center;
+  font-family: Montserrat;
+}
+#publications h1{
+  padding-top: 50px;
+}
+.pub{
+
+  padding: 10% 5% ;
+}
+.carousel-item{
+  padding: 0 15%;
+  color: #35d0ba;
+}
+
+/* logo */
+
+#journal{
+
+  text-align: center;
+
+  }
+.logo-img{
+
+    padding: 20px 10px 50px;
+    }
+    .log{
+      padding: 0 10px;
+    }
+
+
+/* hobbies */
+#Hobbies{
+  background-color: #abf0e9;
+  text-align: center;
+}#Hobbies h1{
+  font-family: Montserrat;
+  padding: 3% 0;
+}
+#Hobbies:hover{
+  background-color: #f9c49a;
+  color: white;
+}
+#Hobbies .container{
+  padding-bottom: 20px;
+  font-size: 1.2rem;
+}
+
+/* footer */
+footer{
+  background-color: #def4f0  ;
+}
+.foot{
+  padding: 5% 10%;
+  text-align: center;
+}
+
+.foot-icon{
+  margin-left: 20px;
+}
+.foot-div{
+  margin-left: 40%;
+  margin-bottom: 20px;
+}
