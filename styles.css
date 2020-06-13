@@ -6,7 +6,7 @@ html {
 }
 
 .about{
-    font-family: Montserrat;
+    font-family: 'Montserrat',sans-serif;
 }
 
 .container-fluid{
@@ -59,7 +59,7 @@ span{
 }
 
 .write_up{
-  font-family: Montserrat;
+  font-family: 'Montserrat',sans-serif;
   color: #35d0ba;
   text-align: right;
   padding: 100px 20px 0 0 ;
@@ -78,10 +78,11 @@ span{
 
 }
 .exp h1{
-  padding-bottom: 10px;
+  font-family: 'Montserrat',sans-serif;
+  padding-bottom: 50px;
 }
 .exp h3{
-  font-family: Montserrat;
+font-family: 'Montserrat',sans-serif;
 }
 .exp p{
   font-size: 1.5rem;
@@ -97,13 +98,14 @@ span{
   padding: 5% 5%;
 }
 .intern h1{
+  font-family: 'Montserrat',sans-serif;
   padding-bottom: 10px;
 }
 .intern h2{
   padding-top: 40px;
 }
 .intern h3{
-  font-family: Montserrat;
+  font-family: 'Montserrat',sans-serif;
   padding: 10px 0;
 }
 .intern li{
@@ -115,14 +117,14 @@ span{
 #publications{
   background-color: #def4f0;
   text-align: center;
-  font-family: Montserrat;
+  font-family: 'Montserrat',sans-serif;
 }
 #publications h1{
   padding-top: 50px;
 }
 .pub{
 
-  padding: 10% 5% 15% ;
+  padding: 10% 5% ;
 }
 .carousel-item{
   padding: 0 15%;
@@ -151,7 +153,7 @@ span{
   text-align: center;
 
 }#Hobbies h1{
-  font-family: Montserrat;
+  font-family: 'Montserrat',sans-serif;
   padding: 3% 0;
 
 }
@@ -169,22 +171,17 @@ span{
 footer{
   background-color: #def4f0  ;
 }
-.foot{
-  padding: 5% 10%;
+.foot-div{
+  padding: 10% 5%;
   text-align: center;
 }
 
 .foot-icon{
-  margin-left: 20px;
-}
-.foot-div{
-
-  padding-left: 40%;
-  padding-right: 40%;
-  margin-bottom: 20px;
+  margin: 15px 7px;
 }
 
-#contact p{
-  padding-left: 20%;
+
+/* #contact p{
+  padding-left: 25%;
   padding-right: 20%;
-}
+} */
