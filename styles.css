@@ -180,8 +180,8 @@ footer{
   margin: 15px 7px;
 }
 
-
-/* #contact p{
-  padding-left: 25%;
-  padding-right: 20%;
-} */
+@media(max-width:1028px){
+  #title {
+    text-align: center;
+  }
+}
