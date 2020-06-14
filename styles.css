@@ -168,6 +168,9 @@ font-family: 'Montserrat',sans-serif;
 
 
 /* footer */
+#contact {
+  font-family: "Montserrat";
+}
 footer{
   background-color: #def4f0  ;
 }
